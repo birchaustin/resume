@@ -1,0 +1,21 @@
+body {
+background-color: rgb(136, 237, 203);
+font-family: 'Courier New', Courier, monospace;
+color: rgb(101, 9, 27);
+
+}
+.car {
+    font-style: italic;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.laugh {
+font-weight: bold;
+}
+.help {
+    text-transform: uppercase;
+}
